@@ -1,9 +1,11 @@
-# Latihan1
+
 NAMA : ALYA SEFHIA EKA PUTRI
 
 KELAS : TI.22.B1
 
 NIM  : 312210108
+
+# Latihan1
 
 1. Buat file bernama Latihan1.py
 2. Lalu masukan kode berikut
